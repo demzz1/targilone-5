@@ -1,3 +1,6 @@
+lin to repositorie github : https://github.com/demzz1/targilone-5
+
+
 ### Task 3: Java Race Condition
 
 When I run the code, the final result for bar is not 20000. It give a random smaller number like 18432 or 19100. 
